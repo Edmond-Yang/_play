@@ -1,0 +1,18 @@
+body{
+    background-image: url("../image/wallpaper.jpg");
+    background-size: cover;
+}
+
+
+.title_block{
+    margin-top: 160px;
+    margin-left: 60px;
+
+}
+
+.input_block{
+    margin-left: 60px;
+}
+
+
+
